@@ -1,6 +1,14 @@
-sfg
-
-aaa
-a
-a
-2
+1箇所に変更があります。
+1箇所目は変更前に4行目から3 行分あったところが、変更により3行増加しました。
+diff --git a/aaa.txt b/aaa.txt
+index c68f8c7..e67e9cb 100644
+--- a/aaa.txt
++++ b/aaa.txt
+@@ -4,3 +4,6 @@ aaa
+ a
+ a
+ 2
++
++あああ
++いいい
+\ No newline at end of file
